@@ -1,0 +1,22 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeVenturim/cypressDiscovery.git"
+  },
+  "author": "Guilherme Venturim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuilhermeVenturim/cypressDiscovery/issues"
+  },
+  "homepage": "https://github.com/GuilhermeVenturim/cypressDiscovery#readme",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}
